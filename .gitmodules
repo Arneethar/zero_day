@@ -1,0 +1,3 @@
+[submodule "0x00-vagran"]
+	path = 0x00-vagran
+	url = git@github.com:Arneethar/zero_day.git
